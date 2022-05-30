@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0470FH 04710H _TEXT              CODE
+ 04710H 0605FH 01950H MAP4SEG            DATA2
+ 06060H 0852BH 024CCH MAP1SEG            DATA1
+ 08530H 08530H 00000H _DATA              DATA
+ 08530H 0872FH 00200H STACK              STACK
+
+Program entry point at 0000:1955
+
